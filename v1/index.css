@@ -4,15 +4,6 @@ body{
   font-family: sans-serif;
 }
 
-header{
-  color: white;
-  background: #00795f;
-  padding: 40px 0;
-  text-align: center;
-  width: 100%;
-}
-
-
 nav ul{
   background-color: #43a286;
   color: white;
